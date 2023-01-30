@@ -7,10 +7,10 @@ An Android application that maps the location of stops and bus routes on the Gre
   - Clicking on a stop will display upcoming bus arrival times and display its route.
 
 ## Successes:
-• Wrote JSON parsers to retrieve arrival, routes, and stops information from TransLink APIs.
-• Showed buses location, stops and routes on the map.
-• Completed the implementation of the Android application that uses a mapping API to present information to the user.
-• Tested the abstractions and data in JSON using JUnit test.
+- Wrote JSON parsers to retrieve arrival, routes, and stops information from TransLink APIs.
+- Showed buses location, stops and routes on the map.
+- Completed the implementation of the Android application that uses a mapping API to present information to the user.
+- Tested the abstractions and data in JSON using JUnit test.
 
 ## Screenshots
 <div>
