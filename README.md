@@ -14,7 +14,7 @@ An Android application that maps the location of stops and bus routes on the Gre
 
 ## Screenshots
 <div>
-  <img src="./screenshots/BusesAreUs-Basic.png" width="250" height="450" />
-  <img src="./screenshots/BusesAreUs-StationSelected.png" width="250" height="450" />
-  <img src="./screenshots/BusesAreUs-Arrivals.png" width="250" height="450" />
+  <img src="BasicScreenshot.jpg" width="250" height="450" />
+  <img src="StationSelectedScreenshot.jpg" width="250" height="450" />
+  <img src="arrivalScreenshot.jpg" width="250" height="450" />
 </div>
