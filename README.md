@@ -1,6 +1,6 @@
 ## Buses-Tracker
 
-An Android application that maps the location of stops and bus routes on the Greater Vancouver Transit system. The user's location is plotted on the map and highlights the nearest bus stop. It retrieves real time arrival information using the TransLink Open API. This application was created as a final project for CPSC 210 at UBC.
+An Android application that maps the location of stops and bus routes on the Greater Vancouver Transit system. The user's location is plotted on the map and highlights the nearest bus stop. It retrieves real time arrival information using the TransLink Open API. 
 
 ## Usage 
   - The closest stop to you will be highlighted and displayed at the bottom of the screen.
